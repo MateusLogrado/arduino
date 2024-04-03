@@ -4,6 +4,15 @@ body{
     font-family: 'Lucida Sans', sans-serif;
 }
 
+p{
+    font-family: Verdana;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}
+
 img{
     border: 5px solid rgb(148, 54, 85);
     border-radius: 10px;
